@@ -1,2 +1,4 @@
 node_modules
-build
+app.bundle
+app.development.bundle
+app.production.bundle

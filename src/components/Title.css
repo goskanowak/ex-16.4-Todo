@@ -1,5 +1,14 @@
 .Title {
-    height: 35px;
-    font-size: 25px;
     text-align: center;
+    font-family: monospace;
+}
+
+h1 {
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+p {
+    font-size: 25px;
+    color: #222;
 }
