@@ -1,7 +1,11 @@
 Webpack learn repository
 =====
-This repository was created to **learn** how to use Webpack.
 
+### This repository was created to `learn` how to use Webpack.
+
+![webpack](https://cdn-images-1.medium.com/max/300/1*gdoQ1_5OID90wf1eLTFvWw.png "Webpack")
+
+---
 
 What is Webpack?
 --------------------
@@ -10,6 +14,15 @@ What is Webpack?
 
 >At its core, webpack is a static module bundler for modern JavaScript applications. When webpack processes your application, it internally builds a dependency graph which maps every module your project needs and generates one or more bundles.
 
+---
+
+In this task I add:
+------------------
+1. Plugins:
+   * ```HtmlWebpackPlugin``` - _Easily create HTML files to serve your bundles_
+   * ``` OptimizeJsPlugin ``` - _Optimize a JavaScript file for faster initial execution and parsing, by wrapping all immediately-invoked functions or likely-to-be-invoked functions in parentheses._
+   * ``` UglifyJSPlugin ``` (**this plugin in version 4 is default added to webpack**) - _Delete indenting, readable variable names, all white characters and insight in the production code_ 
+  
 ---
 
 ### A few simple steps:
@@ -24,6 +37,8 @@ What is Webpack?
 ##### 3. In console write:
 
 > npm start
+
+---
 
 ### Something Missing?
 If you have more ideas that should be on this page write or contribute.
