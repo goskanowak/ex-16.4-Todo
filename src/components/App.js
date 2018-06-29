@@ -50,6 +50,7 @@ class App extends React.Component {
           <TodoList data={this.state.data}
            remove={this.removeTodo.bind(this)}/>
         </ul>
+
       </div>
     );
   }

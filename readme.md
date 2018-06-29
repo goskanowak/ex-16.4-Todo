@@ -7,6 +7,8 @@ Webpack learn repository
 
 ---
 
+This repository was created to **learn** how to use Webpack.
+
 What is Webpack?
 --------------------
 
@@ -42,4 +44,5 @@ In this task I add:
 ---
 
 ### Something Missing?
+
 If you have more ideas that should be on this page write or contribute.
