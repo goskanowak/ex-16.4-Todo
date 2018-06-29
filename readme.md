@@ -8,6 +8,7 @@ Webpack learn repository
 ---
 
 This repository was created to **learn** how to use Webpack.
+=======
 
 What is Webpack?
 --------------------
@@ -40,7 +41,7 @@ In this task I add:
 
    * ```npm start``` - build app in development mode
    * ```npm build``` - build app in production mode
-
+   
 ---
 
 ### Something Missing?
