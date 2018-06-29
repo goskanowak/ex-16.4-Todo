@@ -32,13 +32,13 @@ In this task I add:
 
 ##### 2. Install all dependencies:
 
-```npm i```
+> npm i
 
 ##### 3. To build app:
 
    * ```npm start``` - build app in development mode
    * ```npm build``` - build app in production mode
-
+   
 ---
 
 ### Something Missing?
