@@ -6,6 +6,6 @@ const Title = props => (
     <h1>List Todo:</h1>
     <p className={style.taskTodo}>{'Task to do: ' + props.numberTask}</p>
   </div>
-)
+);
 
 export default Title;
